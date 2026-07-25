@@ -39,4 +39,4 @@ Este sistema foi desenvolvido para otimizar a rotina administrativa escolar. Ele
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/sistema-gestao-escolar.git](https://github.com/seu-usuario/sistema-gestao-escolar.git)
+   git clone [https://github.com/Carolzorzi/sistema_gestao_escolar.git](https://github.com/Carolzorzi/sistema_gestao_escolar.git)).
