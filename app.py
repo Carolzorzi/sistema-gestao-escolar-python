@@ -223,7 +223,7 @@ pagina_selecionada = st.session_state.pagina_selecionada
 
 # 5. Página principal e Visão Geral com gráficos
 if pagina_selecionada == "Visão Geral":
-    st.title("📊 Visão Geral")
+    st.title("Visão Geral")
     st.markdown("Bem-vinda ao painel principal de controle escolar.")
 
     total_alunos = contar_total_alunos()
@@ -298,7 +298,7 @@ if pagina_selecionada == "Visão Geral":
         st.plotly_chart(fig2, use_container_width=True)
 
 elif pagina_selecionada == "Alunos Ativos":
-    st.title("👩‍🎓 Alunos Ativos")
+    st.title("Alunos Ativos")
     st.markdown("Gerencie o cadastro, visualize, filtre e edite as informações dos estudantes.")
 
     aba_visualizar, aba_cadastrar, aba_editar = st.tabs(["📋 Visualizar Alunos", "➕ Cadastrar Aluno", "✏️ Editar Aluno"])
@@ -563,7 +563,7 @@ elif pagina_selecionada == "Professores":
             st.info("Nenhum professor cadastrado para editar.")
 
 elif pagina_selecionada == "Faturamento":
-    st.title("💰 Gestão de Faturamento")
+    st.title("Gestão de Faturamento")
     st.markdown("Acompanhe os recebimentos, mensalidades pendentes e saúde financeira do sistema escolar.")
 
     st.markdown("---")
