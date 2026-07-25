@@ -2,6 +2,8 @@
 
 > Aplicação web interativa desenvolvida em Python para o gerenciamento completo de instituições de ensino ou outras unidades profissionais, unindo controle de usuários cadastrados, controle de funcionários e acompanhamento financeiro em tempo real.
 
+> https://sistema-gestao-escolar-pythongit.streamlit.app/
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
