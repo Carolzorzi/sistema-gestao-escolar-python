@@ -13,7 +13,7 @@ Este sistema foi desenvolvido para otimizar a rotina administrativa escolar. Ele
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Python:** Linguagem principal de lógica e manipulação de dados.
 * **Streamlit:** Framework para criação da interface web interativa.
 * **Pandas:** Biblioteca para tratamento, filtragem e estruturação de tabelas.
