@@ -26,12 +26,25 @@ Este sistema foi desenvolvido para otimizar a rotina administrativa escolar. Ele
 * **Visão Geral (Dashboard):** 
   * Indicadores-chave (KPIs) de total de alunos, faturamento previsto e atual.
   * Gráficos em pizza interativos mostrando a distribuição de alunos ativos/inativos e o status detalhado dos pagamentos.
+  <img width="1912" height="908" alt="Visão Geral" src="https://github.com/user-attachments/assets/1924ebee-7103-4fc0-b1c6-5282218b128e" />
+
 * **Gestão de Alunos Ativos:** 
   * Cadastro, listagem e controle do status de matrícula (Ativo/Inativo).
+   <img width="1917" height="908" alt="Alunos Ativos" src="https://github.com/user-attachments/assets/246942db-a348-4397-a936-14fd9d73bf20" />
+
+* **Gestão de Professores:** 
+  * Cadastro, listagem e controle de disciplinas.
+    <img width="1917" height="910" alt="Base de Professores" src="https://github.com/user-attachments/assets/dfa4158a-b0b1-471f-8fa3-ae52a549e87a" />
+
 * **Gestão de Faturamento:** 
   * Acompanhamento financeiro (Faturamento Previsto vs. Faturamento Atual).
   * Gestão de inadimplência com resumo por status (*Pago/Em dia*, *Pendente*, *Inadimplente*).
   * Atualização dinâmica de status de pagamento por aluno com persistência imediata no banco de dados.
+  <img width="1917" height="912" alt="Gestão de Faturamento" src="https://github.com/user-attachments/assets/84f65da3-b4f4-442e-bce5-f38c482b7d64" />
+
+* **Configurações do Sistema:** 
+  * Efeito simples de ajuste de aparência dos botões do menu lateral (arredondamento).
+  <img width="1917" height="920" alt="Configurações do Sistema" src="https://github.com/user-attachments/assets/ea678c6c-2920-45a4-ab88-484897710d7a" />
 
 ---
 
